@@ -1,7 +1,8 @@
 import React from "react";
+import MainLayout from "../Layout/MainLayout";
 
 const Home = () => {
-    return <div>Here is Legend Project to be Start</div>;
+    return <MainLayout>Here is Legend Project to be Start</MainLayout>;
 };
 
 export default Home;
